@@ -1,0 +1,37 @@
+h1 {
+    width: 65px;
+    color: chartreuse;
+    font-family: sans-serif;
+}
+ul {
+    background-color: blue;
+    }
+
+.color {
+    background-color: aqua;
+    font-style: italic;
+    line-height: 3em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+   font-size: 3em;
+    
+}        
+
+body {
+    font-size: 16px;
+}
+
+#amarelo {
+    background-color: yellow;
+}
+
+#vermelho {
+    background-color: red;
+}
+
+#marrom {
+    background-color: brown;
+}
