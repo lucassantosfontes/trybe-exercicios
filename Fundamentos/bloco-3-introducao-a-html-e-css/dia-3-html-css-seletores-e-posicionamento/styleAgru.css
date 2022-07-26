@@ -1,0 +1,22 @@
+div, p {
+    font-family: monospace;
+    text-align: center;
+}
+
+ol{
+    background-color: gray;
+    color: white;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+li:hover {
+    background-color: green;
+    
+}
+
+li:active {
+    color: cornflowerblue;
+}
